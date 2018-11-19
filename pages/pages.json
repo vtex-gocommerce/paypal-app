@@ -1,0 +1,7 @@
+{
+  "extensions": {
+    "admin/gateway/paymentDetail/gocommerce.paypal-app": {
+      "component": "index"
+    }
+  }
+}

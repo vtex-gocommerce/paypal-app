@@ -1,0 +1,14 @@
+{
+  "admin.payment.paypal.additionalData.description": "<p>Registrase ahora e active su tienda virtual: <a href='https://www.paypal.com.ar/registration-mp/?mode=mp' target='_blank' class='blue'>click aquí</a></p><ul class='g-pl5'><li>Acepte tarjetas VISA, MASTER, HIPERCARD, ELO directamente en su tienda.</li><li>Tarifa: consulte la condición de su cuenta directamente en Mercado Pago ya que la tarifa puede variar deacuerdo con el perfil de cada vendedor.</li><li>Para visualizar condiciones comerciales de cuotas, <a href='https://www.paypal.com.ar/ayuda/costos-financiacion_621' target='_blank' class='blue'>click aquí</a></li></ul>",
+  "admin.payment.paypal.boxGeneral": "Geral",
+  "admin.payment.paypal.boxApplicationSetup": "Configuração do aplicativo",
+  "admin.payment.paypal.boxInstallments": "Parcelamento",
+  "admin.payment.paypal.creditCardActive": "Cartão ativo",
+  "admin.payment.paypal.redirectActive": "Redirect ativo",
+  "admin.payment.paypal.minimumValue": "Valor mínimo",
+  "admin.payment.paypal.minimumValue.description": "Valor mínimo para exibir esta forma de pagamento",
+  "admin.payment.paypal.minimumInstallmentValue": "Valor mínimo da parcela",
+  "admin.payment.paypal.installments.numberOfInstallments": "Número de parcelas",
+  "admin.payment.paypal.installments.numberOfInstallmentsInterestFree": "Parcelas sem juros",
+  "admin.payment.paypal.installments.numberOfInstallmentsInterestFree.description": "Número de parcelas sem juros para esta forma de pagamento."
+}
