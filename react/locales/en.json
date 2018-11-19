@@ -1,10 +1,9 @@
 {
-  "admin.payment.paypal.additionalData.description": "<p>Registrase ahora e active su tienda virtual: <a href='https://www.paypal.com.ar/registration-mp/?mode=mp' target='_blank' class='blue'>click aquí</a></p><ul class='g-pl5'><li>Acepte tarjetas VISA, MASTER, HIPERCARD, ELO directamente en su tienda.</li><li>Tarifa: consulte la condición de su cuenta directamente en Mercado Pago ya que la tarifa puede variar deacuerdo con el perfil de cada vendedor.</li><li>Para visualizar condiciones comerciales de cuotas, <a href='https://www.paypal.com.ar/ayuda/costos-financiacion_621' target='_blank' class='blue'>click aquí</a></li></ul>",
+  "admin.payment.paypal.additionalData.description": "<p>Sign up now to active at your store: <a href='https://www.paypal.com/br/webapps/mpp/paypal-payments-pro' target='_blank' class='blue'>click here</a></p><ul class='g-pl5'><li>Accept credit cards VISA, MASTER, HIPERCARD, ELO.</li><li>Fee: check the conditions directly with Paypal. Rate may vary according to the profile of each seller.</li><li>To view the commercial installment terms, <a href='https://http://www.paypal.com/paypal/o-que-e' target='_blank' class='blue'>click here</a></li></ul>",
   "admin.payment.paypal.boxGeneral": "General",
   "admin.payment.paypal.boxApplicationSetup": "Application Setup",
   "admin.payment.paypal.boxInstallments": "Installments",
   "admin.payment.paypal.creditCardActive": "Active credit card?",
-  "admin.payment.paypal.redirectActive": "Active redirect?",
   "admin.payment.paypal.minimumValue": "Minimum value",
   "admin.payment.paypal.minimumValue.description": "Minimum amount to display this form of payment",
   "admin.payment.paypal.minimumInstallmentValue": "Minimum installment value",
