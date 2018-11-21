@@ -12,16 +12,6 @@ class PaymentFormComponent extends React.PureComponent<PaymentFormProps, Payment
   render() {
     const { intl } = this.props
     const intlPrefix = 'admin.payment.paypal'
-    const optionsYesNo = [
-      {
-        "value": false,
-        "label": "No"
-      },
-      {
-        "value": true,
-        "label": "Yes"
-      }
-    ]
     const optionsInstallments = new Array(12).fill(0).map(function(_, i) {
       const curr = i + 1
       return {
@@ -54,7 +44,6 @@ class PaymentFormComponent extends React.PureComponent<PaymentFormProps, Payment
             "creditCardActive": {
               "type": "boolean",
               "widget": "toggle",
-              "options": optionsYesNo,
               "title": intl.formatMessage({ id: `${intlPrefix}.creditCardActive` })
             },
             "minimumValue": {
