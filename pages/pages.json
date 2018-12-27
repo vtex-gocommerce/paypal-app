@@ -2,6 +2,12 @@
   "extensions": {
     "admin/gateway/paymentDetail/gocommerce.paypal-app": {
       "component": "index"
+    },
+    "admin/apps/setup/advanced-config-page/gocommerce.paypal-app": {
+      "component": "gocommerce.apps/advancedConfigInfo",
+      "props": {
+        "page": "admin/gateway/paymentDetail"
+      }
     }
   }
 }
