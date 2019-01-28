@@ -1,7 +1,7 @@
 {
   "name": "paypal-app",
   "vendor": "gocommerce",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "PayPal",
   "description": "PayPal App",
   "mustUpdateAt": "2019-03-02",
