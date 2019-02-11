@@ -45,12 +45,6 @@ class PaymentFormComponent extends React.PureComponent<PaymentFormProps, Payment
               "type": "boolean",
               "widget": "toggle",
               "title": intl.formatMessage({ id: `${intlPrefix}.creditCardActive` })
-            },
-            "minimumValue": {
-              "type": "number",
-              "widget": "currency",
-              "title": intl.formatMessage({ id: `${intlPrefix}.minimumValue` }),
-              "description": intl.formatMessage({ id: `${intlPrefix}.minimumValue.description` })
             }
           }
         },
