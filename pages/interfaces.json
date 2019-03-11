@@ -1,0 +1,5 @@
+{
+  "admin.gateway.paypal-app": {
+    "component": "index"
+  }
+}
