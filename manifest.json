@@ -1,20 +1,26 @@
 {
   "name": "paypal-app",
   "vendor": "gocommerce",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "title": "PayPal",
   "description": "PayPal App",
   "mustUpdateAt": "2019-03-02",
   "credentialType": "absolute",
-  "registries": ["smartcheckout", "gocommerce"],
-  "categories": ["gocommerce", "payments"],
+  "registries": [
+    "smartcheckout",
+    "gocommerce"
+  ],
+  "categories": [
+    "gocommerce",
+    "payments"
+  ],
   "dependencies": {
-    "gocommerce.admin": "1.x",
-    "gocommerce.admin-gateway": "1.x"
+    "gocommerce.admin-gateway": "2.x"
   },
   "builders": {
     "react": "3.x",
-    "pages": "1.x",
+    "admin": "0.x",
     "messages": "1.x"
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
