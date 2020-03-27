@@ -23,7 +23,8 @@
     "messages": "1.x"
   },
   "billingOptions": {
-    "free": true
+    "free": true,
+    "setupRoute": "/admin/app/gateway/payments/gocommerce.paypal-app"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

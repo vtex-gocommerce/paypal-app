@@ -11,7 +11,7 @@ interface PaymentFormState {}
 class PaymentFormComponent extends React.PureComponent<PaymentFormProps, PaymentFormState> {
   render() {
     const { intl } = this.props
-    const intlPrefix = 'admin.payment.paypal'
+    const intlPrefix = 'admin/payment.paypal'
     const optionsInstallments = new Array(12).fill(0).map(function(_, i) {
       const curr = i + 1
       return {
