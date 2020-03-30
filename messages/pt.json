@@ -1,13 +1,13 @@
 {
-  "admin.payment.paypal.additionalData.description": "<p>Cadastre-se agora para ativar em sua loja virtual: <a href='https://www.paypal.com/br/webapps/mpp/paypal-payments-pro' target='_blank' class='blue'>clique aqui</a></p><ul class='g-pl5'><li>Aceite cartões VISA, MASTER, HIPERCARD, ELO diretamente em sua loja.</li><li>Tarifa: consulte a condição de sua conta diretamente com o Paypal, pois a tarifa pode variar de acordo com o perfil de cada vendedor.</li><li>Para visualizar condições comerciais de parcelamento, <a href='https://http://www.paypal.com/paypal/o-que-e' target='_blank' class='blue'>clique aqui</a></li></ul>",
-  "admin.payment.paypal.boxGeneral": "Geral",
-  "admin.payment.paypal.boxApplicationSetup": "Configuração do aplicativo",
-  "admin.payment.paypal.boxInstallments": "Parcelamento",
-  "admin.payment.paypal.creditCardActive": "Cartão ativo",
-  "admin.payment.paypal.minimumValue": "Valor mínimo",
-  "admin.payment.paypal.minimumValue.description": "Valor mínimo para exibir esta forma de pagamento",
-  "admin.payment.paypal.minimumInstallmentValue": "Valor mínimo da parcela",
-  "admin.payment.paypal.installments.numberOfInstallments": "Número de parcelas",
-  "admin.payment.paypal.installments.numberOfInstallmentsInterestFree": "Parcelas sem juros",
-  "admin.payment.paypal.installments.numberOfInstallmentsInterestFree.description": "Número de parcelas sem juros para esta forma de pagamento."
+  "admin/payment.paypal.additionalData.description": "<p>Cadastre-se agora para ativar em sua loja virtual: <a href='https://www.paypal.com/br/webapps/mpp/paypal-payments-pro' target='_blank' class='blue'>clique aqui</a></p><ul class='g-pl5'><li>Aceite cartões VISA, MASTER, HIPERCARD, ELO diretamente em sua loja.</li><li>Tarifa: consulte a condição de sua conta diretamente com o Paypal, pois a tarifa pode variar de acordo com o perfil de cada vendedor.</li><li>Para visualizar condições comerciais de parcelamento, <a href='https://http://www.paypal.com/paypal/o-que-e' target='_blank' class='blue'>clique aqui</a></li></ul>",
+  "admin/payment.paypal.boxGeneral": "Geral",
+  "admin/payment.paypal.boxApplicationSetup": "Configuração do aplicativo",
+  "admin/payment.paypal.boxInstallments": "Parcelamento",
+  "admin/payment.paypal.creditCardActive": "Cartão ativo",
+  "admin/payment.paypal.minimumValue": "Valor mínimo",
+  "admin/payment.paypal.minimumValue.description": "Valor mínimo para exibir esta forma de pagamento",
+  "admin/payment.paypal.minimumInstallmentValue": "Valor mínimo da parcela",
+  "admin/payment.paypal.installments.numberOfInstallments": "Número de parcelas",
+  "admin/payment.paypal.installments.numberOfInstallmentsInterestFree": "Parcelas sem juros",
+  "admin/payment.paypal.installments.numberOfInstallmentsInterestFree.description": "Número de parcelas sem juros para esta forma de pagamento."
 }
